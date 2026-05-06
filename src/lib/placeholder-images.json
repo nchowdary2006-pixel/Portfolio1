@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-pic",
+      "description": "Professional headshot of a developer",
+      "imageUrl": "https://picsum.photos/seed/narasimha-profile/600/600",
+      "imageHint": "professional headshot developer"
+    },
+    {
+      "id": "project-expense",
+      "description": "Expense tracker dashboard with charts",
+      "imageUrl": "https://picsum.photos/seed/expense-tracker/800/600",
+      "imageHint": "expense tracker app"
+    },
+    {
+      "id": "project-2",
+      "description": "SaaS analytics dashboard",
+      "imageUrl": "https://picsum.photos/seed/project2/800/600",
+      "imageHint": "analytics dashboard ui"
+    },
+    {
+      "id": "project-3",
+      "description": "Mobile fitness application",
+      "imageUrl": "https://picsum.photos/seed/project3/800/600",
+      "imageHint": "mobile app interface"
+    }
+  ]
+}
